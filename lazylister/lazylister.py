@@ -1,5 +1,5 @@
 # I always have to write custom code to pull items off of a text document list, so this will be a nice little
-# auto list creator "library" to return each individual line of a text document as it's own element in a list.
+# auto list creator "library" to return each individual line of a text document as its own element in a list.
 # Written by James Scheiber, 4am 9/19/2020 :)
 
 class Lister:
